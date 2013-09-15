@@ -1,3 +1,5 @@
 Github's help documents  https://help.github.com/
 Git's documentation  http://git-scm.com/documentation
 In-browser Git sampler  http://try.github.io/levels/1/challenges/1
+Git for Beginners: The Definitive Practical Guide
+http://stackoverflow.com/questions/315911/git-for-beginners-the-definitive-practical-guide
